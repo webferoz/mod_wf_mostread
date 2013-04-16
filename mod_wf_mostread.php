@@ -6,8 +6,8 @@
 
 // adiciona o css do módulo
 $document = JFactory::getDocument();
-$css = $params->get('css');
-$document->addStyleSheet('modules/mod_wf_mostread/css/mod_wf_mostread_{$css}.css');
+$css = $params->get('style_css');
+$document->addStyleSheet('modules/mod_wf_mostread/css/wf_mostread_'.$css.'.css');
 
 defined('_JEXEC') or die;
 

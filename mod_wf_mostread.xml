@@ -70,7 +70,7 @@
 				</field>
 
 				<field
-					name="style"
+					name="style_css"
 					type="list"
 					class="btn-group"
 					default="1"
