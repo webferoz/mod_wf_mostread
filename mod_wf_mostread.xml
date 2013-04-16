@@ -12,7 +12,7 @@
 	<authorEmail>pedro@webferoz.com.br</authorEmail>
 	<authorUrl>www.webferoz.com.br</authorUrl>
 	<version>3.0.0</version>
-	<description>MOD_WF_MOSTREAD_XML_DESCRIPTION</description>
+	<description>Module to display most read articles</description>
 	<files>
 		<filename module="mod_wf_mostread">mod_wf_mostread.php</filename>
 		<folder>css</folder>
