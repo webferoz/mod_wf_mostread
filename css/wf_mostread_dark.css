@@ -6,35 +6,35 @@ ul.mostread li{
 	list-style:none;
 	margin-bottom: 5px;
 }
-ul.mostread a {	
+ul.mostread a {
 	display: block;
 	padding: 5px 10px;
 	position:relative;
 	line-height: 35px;
 	height: 35px;
 	border-radius: 3px;
-	color: white;
+	color: black;
 }
 ul.mostread a.article-popular0 {
-	background: #6B1D47;
+	background: #FF1E68;
 }
 ul.mostread a.article-popular1 {
-	background: #DD4814;
+	background: #8AB31B;
 	width: 80%;
 }
 ul.mostread a.article-popular2 {
-	background: #31A006;
+	background: #5FC3BA;
 	width: 70%;
 }
 ul.mostread a.article-popular3 {
-	background: #3b5998;
+	background: #AC75FE;
 	width: 60%;
 }
 ul.mostread a.article-popular4 {
 	background: #353631;
 	width: 50%;
 }
-ul.mostread a:hover {	
+ul.mostread a:hover {
 	opacity: 0.7;
 	filter: alpha(opacity=70);
 	text-decoration: none;
